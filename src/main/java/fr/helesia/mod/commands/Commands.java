@@ -59,6 +59,7 @@ public class Commands implements CommandExecutor {
                 ownerFirstSkull = nbtItem.getItem();
 
                 modInv.setItem(2, ownerFirstSkull);
+                
             }
 
             player.openInventory(modInv);

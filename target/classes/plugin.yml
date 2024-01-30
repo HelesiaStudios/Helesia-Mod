@@ -1,5 +1,5 @@
 name: Helesia-Mod
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: fr.helesia.mod.Main
 commands:
   staff:

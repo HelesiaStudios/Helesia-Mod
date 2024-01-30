@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AZ_Launcher_API">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/AZ_Launcher_API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
